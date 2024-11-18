@@ -12,5 +12,4 @@ List of the people involved in the project.
 
 ## CNR unit
 - Alessandra Magistrato (PI)
-- Pavel Janoš (Post-doctoral researcher)
 - Karolina Mitusinska (Post-doctoral researcher)
