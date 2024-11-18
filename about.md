@@ -1,8 +1,9 @@
 ---
 layout: default
 title: About
-description: Description of the project
 ---
+
+## Description of the project
 
 RNA molecules perform a variety of key biological functions carrying genome information and acting as RNA-based catalysts (ribozymes or protein-directed ribozymes) to regulate gene expression, proteome diversification and, ultimately, to perform protein synthesis. RNA molecules can adopt extraordinarily complex folds, which are instrumental to conduct their functions. Due to their highly negative charge (each nucleobase carries a negative charge), the stability and the functionality of intricate RNA architectures is intimately connected with the presence of neutralizing monovalent and divalent counterions (Mg2+ and K+), which, besides conferring structural stability to their fold, may also aid catalysis.
 
