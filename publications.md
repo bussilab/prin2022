@@ -4,7 +4,7 @@ title: Publications
 ---
 
 List of publications:
-- Monovalent ions aid catalysis of two-metal-ion dependent RNA editors, Jure Borišek, Jana Aupič, Alessandra Magistrato, [Coord. Chem. Rev. 557, 217754 (2026)][https://doi.org/10.1016/j.ccr.2026.217754]
+- Monovalent ions aid catalysis of two-metal-ion dependent RNA editors, Jure Borišek, Jana Aupič, Alessandra Magistrato, [Coord. Chem. Rev. 557, 217754 (2026)](https://doi.org/10.1016/j.ccr.2026.217754)
 - Blind Prediction of Complex Water and Ion Ensembles Around RNA in CASP16,
   Rachael Kretsch et al, [Proteins 94, 381 (2026)](https://doi.org/10.1002/prot.70079) ([preprint](https://doi.org/10.1101/2025.11.03.685595))
 - Ensemble Refinement of mismodeled cryo-EM RNA Structures Using All-Atom Simulations,
