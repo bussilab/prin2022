@@ -5,6 +5,7 @@ title: Publications
 
 List of publications:
 - pH-dependent allosteric remodeling of a bacterial riboswitch couples alkaline activation to metal sensing, Danea Palmer, Adrien Chauvier, Tomás F. D. Silva, Avery Ontiveros, Giovanni Bussi, Nils G. Walter, Tatiana V. Mishanina, bioRxiv, [doi:10.64898/2026.02.18.706685](https://doi.org/10.64898/2026.02.18.706685)
+- Combined All-Atom Simulations and Biophysical Assays Uncover Loop-Driven Stabilization in the HRAS i-motif, Alhadji Malloum, Valentina Arciuolo, Pavlína Pokorná, Luca Grisanti, Bruno Pagano, Jussara Amato, Alessandra Magistrato, [J. Chem. Inf. Model., in press (2026)](https://doi.org/10.1021/acs.jcim.5c03176)
 - Monovalent ions aid catalysis of two-metal-ion dependent RNA editors, Jure Borišek, Jana Aupič, Alessandra Magistrato, [Coord. Chem. Rev. 557, 217754 (2026)](https://doi.org/10.1016/j.ccr.2026.217754)
 - Blind Prediction of Complex Water and Ion Ensembles Around RNA in CASP16,
   Rachael Kretsch et al, [Proteins 94, 381 (2026)](https://doi.org/10.1002/prot.70079) ([preprint](https://doi.org/10.1101/2025.11.03.685595))
